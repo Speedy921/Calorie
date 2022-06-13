@@ -1,0 +1,14 @@
+C:\Users\newyo\source\repos\Calorie\Calorie\bin\Debug\netcoreapp3.1\Calorie.exe
+C:\Users\newyo\source\repos\Calorie\Calorie\bin\Debug\netcoreapp3.1\Calorie.deps.json
+C:\Users\newyo\source\repos\Calorie\Calorie\bin\Debug\netcoreapp3.1\Calorie.runtimeconfig.json
+C:\Users\newyo\source\repos\Calorie\Calorie\bin\Debug\netcoreapp3.1\Calorie.runtimeconfig.dev.json
+C:\Users\newyo\source\repos\Calorie\Calorie\bin\Debug\netcoreapp3.1\Calorie.dll
+C:\Users\newyo\source\repos\Calorie\Calorie\bin\Debug\netcoreapp3.1\Calorie.pdb
+C:\Users\newyo\source\repos\Calorie\Calorie\obj\Debug\netcoreapp3.1\Calorie.csproj.AssemblyReference.cache
+C:\Users\newyo\source\repos\Calorie\Calorie\obj\Debug\netcoreapp3.1\Calorie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\newyo\source\repos\Calorie\Calorie\obj\Debug\netcoreapp3.1\Calorie.AssemblyInfoInputs.cache
+C:\Users\newyo\source\repos\Calorie\Calorie\obj\Debug\netcoreapp3.1\Calorie.AssemblyInfo.cs
+C:\Users\newyo\source\repos\Calorie\Calorie\obj\Debug\netcoreapp3.1\Calorie.csproj.CoreCompileInputs.cache
+C:\Users\newyo\source\repos\Calorie\Calorie\obj\Debug\netcoreapp3.1\Calorie.dll
+C:\Users\newyo\source\repos\Calorie\Calorie\obj\Debug\netcoreapp3.1\Calorie.pdb
+C:\Users\newyo\source\repos\Calorie\Calorie\obj\Debug\netcoreapp3.1\Calorie.genruntimeconfig.cache
